@@ -1,0 +1,12 @@
+C:\Users\t-h-t\Desktop\ImageViewerUsingFtp\ImageViewerUsingFtp\bin\Debug\ImageViewerUsingFtp.exe.config
+C:\Users\t-h-t\Desktop\ImageViewerUsingFtp\ImageViewerUsingFtp\bin\Debug\ImageViewerUsingFtp.exe
+C:\Users\t-h-t\Desktop\ImageViewerUsingFtp\ImageViewerUsingFtp\bin\Debug\ImageViewerUsingFtp.pdb
+C:\Users\t-h-t\Desktop\ImageViewerUsingFtp\ImageViewerUsingFtp\bin\Debug\CurlSharp.dll
+C:\Users\t-h-t\Desktop\ImageViewerUsingFtp\ImageViewerUsingFtp\bin\Debug\CurlSharp.pdb
+C:\Users\t-h-t\Desktop\ImageViewerUsingFtp\ImageViewerUsingFtp\obj\Debug\ImageViewerUsingFtp.csprojAssemblyReference.cache
+C:\Users\t-h-t\Desktop\ImageViewerUsingFtp\ImageViewerUsingFtp\obj\Debug\ImageViewerUsingFtp.Form1.resources
+C:\Users\t-h-t\Desktop\ImageViewerUsingFtp\ImageViewerUsingFtp\obj\Debug\ImageViewerUsingFtp.Properties.Resources.resources
+C:\Users\t-h-t\Desktop\ImageViewerUsingFtp\ImageViewerUsingFtp\obj\Debug\ImageViewerUsingFtp.csproj.GenerateResource.cache
+C:\Users\t-h-t\Desktop\ImageViewerUsingFtp\ImageViewerUsingFtp\obj\Debug\ImageViewerUsingFtp.csproj.CopyComplete
+C:\Users\t-h-t\Desktop\ImageViewerUsingFtp\ImageViewerUsingFtp\obj\Debug\ImageViewerUsingFtp.exe
+C:\Users\t-h-t\Desktop\ImageViewerUsingFtp\ImageViewerUsingFtp\obj\Debug\ImageViewerUsingFtp.pdb
